@@ -10,26 +10,44 @@
 </p>
 
 ## About Me
+
 A data detective from Indonesia :ID: who follows messy numbers until they reveal a story worth acting on. I build projects with Python, SQL, Spreadsheet, and Tableau while sharpening my analytical skills. Currently, I'm expanding my knowledge by building end-to-end analytics projects that strengthen both my technical skills and business understanding.
 
+<br>
+
 ## 🛠️ Skills
-- Python (Pandas, Numpy)
-- SQL
-- Spreadsheet
-- Tableau
-- Big Query
-- HTML
-- CSS
+
+| 🛠️ Skill | 💻 Tools | 📚 Libraries | 📈 Proficiency |
+| :--- | :--- | :---| :--- |
+|Python|VSCode, Jupyter Notebook|Pandas, Numpy |Intermediate |
+|SQL|Google Big Query | - |Intermediate |
+|Spreadsheet|Google Spreadsheet, Microsoft Excel | - |Intermediate |
+|Data Visualization|Tableau | - |Beginner |
+|HTML & CSS |VSCode | - |Intermediate |
+<br>
 
 ## 📚 Currently Learning
-- Google Data Analytics Professional Certificate
-- Google Data Analysis with Python Specialization
-- Machine Learning
+
+| 📚 Course | 🏢 Provider | 📅 Status | 📜 Certificate |
+|:-----------|:------------|:---------:|:--------------:|
+| Google Data Analytics Professional Certificate | Coursera | ✅ Completed | 🔗 [View](https://example.com/...) |
+| Google Data Analysis with Python | Coursera | 🚧 In Progress | — |
+| IBM Machine Learning Professional Certificate | Coursera | 📌 Planned | — |
+
+<br>
 
 ## 📂 Featured Projects
-| 🚀 Project | :mag: Objective | :computer: Tech | :bar_chart: Result | Click for more |
-| :--- | :--- | :---: | :---| :---:|
-| Coming Soon | Coming Soon | Coming Soon | Coming Soon| [![Test](folder16px.png)](https://example.com/...) |
+
+| | |
+| :--- | :--- |
+| **📌 Project** | Cyclistic Bike-Share Marketing Analytics |
+| **🎯 Objective** | Analyze historical bike-trip data to understand how annual members and casual riders use Cyclistic bikes differently to increase annual memberships. |
+| **🛠️ Technology** | Python, Tableau |
+| **📈 Result** | - |
+| **🚧 Status** | In Progress |
+| **📂 Project Detail** | [![Test](folder16px.png)](https://example.com/...) [View Documentation](https://example.com/...) |
+
+<br>
 
 ## 📫 Connect with Me
 
