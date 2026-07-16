@@ -5,8 +5,7 @@
 </p>
 
 ## About Me
-I'm passionate about uncovering patterns hidden within data and turning complex datasets into clear, actionable insights. I enjoy solving real-world business problems through data cleaning, exploratory analysis, visualization, and storytelling.
-
+I'm Rifaldi Adi, a data detective from Indonesia :id: who follows messy numbers until they reveal a story worth acting on. I build projects with Python, SQL, Excel, and Power BI while sharpening my analytical skills.
 Currently, I'm expanding my knowledge by building end-to-end analytics projects that strengthen both my technical skills and business understanding.
 
 ### 🚀 Currently Exploring
