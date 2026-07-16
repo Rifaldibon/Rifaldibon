@@ -35,8 +35,9 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 - Data Cleaning with Python
 
 ## 📫 Connect with Me
-<i class="ci ci-linkedin ci-2x"></i>
-<i class="ci-whatsapp ci-2x"></i>
+
+<i class="ci ci-linkedin"></i>
+
 ---
 
 > *"Every dataset tells a story. My job is to find it, understand it, and communicate it clearly."*
