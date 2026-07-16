@@ -41,7 +41,7 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 | | |
 | :--- | :--- |
 | **📌 Project** | Cyclistic Bike-Share Marketing Analytics |
-| **🎯 Objective** | Analyze historical bike-trip data to understand how annual members and casual riders use Cyclistic bikes differently to increase annual memberships. |
+| **🎯 Objective** | Analyze historical bike-trip data to identify behavioral differences between annual members and casual riders and provide insights to increase annual memberships. |
 | **🛠️ Technology** | Python, Tableau |
 | **📈 Result** | - |
 | **🚧 Status** | In Progress |
