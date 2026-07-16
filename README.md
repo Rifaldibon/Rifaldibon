@@ -14,7 +14,7 @@ Currently, I'm expanding my knowledge by building end-to-end analytics projects 
 - Machine Learning
 
 ### 🛠️ Tech Stack
-
+![Static Badge](https://img.shields.io/badge/googlebigquery)
 <img src="https://img.shields.io/googlebigquery" />
 https://img.shields.io/npm/v/npm.svg?logo=nodedotjs
 
