@@ -1,6 +1,6 @@
 # WELCOME TO MY GITHUB PROFILE 👋
 
-![Uploading Github Banner.gif…](Github Banner.gif)
+![test](Github Banner.gif)
 
 
 ## About Me
