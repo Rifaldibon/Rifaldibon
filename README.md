@@ -27,9 +27,9 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 - Machine Learning
 
 ## 📂 Featured Projects
-| 🚀 Project | :mag: Objective | :computer: Tech | :bar_chart: Result | Detail |
+| 🚀 Project | :mag: Objective | :computer: Tech | :bar_chart: Result | Click for more |
 | :--- | :--- | :---: | :---| :---:|
-| Coming Soon | Coming Soon | Coming Soon | Coming Soon| [![Test](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/documentation-icon.svg)](https://example.com/...) |
+| Coming Soon | Coming Soon | Coming Soon | Coming Soon| [![Test](folder.png)](https://example.com/...) |
 
 ## 📫 Connect with Me
 
