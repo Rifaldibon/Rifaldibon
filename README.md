@@ -14,9 +14,11 @@ Currently, I'm expanding my knowledge by building end-to-end analytics projects 
 - Machine Learning
 
 ### 🛠️ Tech Stack
+<img src="https://img.shields.io/npm/v/npm.svg?logo=googlebigquery" />
+https://img.shields.io/npm/v/npm.svg?logo=nodedotjs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bigquery,vscode,sql,spreadsheet" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,tabla" />
 </p>
 
 <p>
