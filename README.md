@@ -1,5 +1,8 @@
 # WELCOME TO MY GITHUB PROFILE 👋
 
+![Uploading Github Banner.gif…]()
+
+
 ## About Me
 I'm passionate about uncovering patterns hidden within data and turning complex datasets into clear, actionable insights. I enjoy solving real-world business problems through data cleaning, exploratory analysis, visualization, and storytelling.
 
