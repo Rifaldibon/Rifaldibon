@@ -1,4 +1,4 @@
-# WELCOME TO MY GITHUB PROFILE 👋
+# HELLO THERE!!! 👋
 
 <p align="center">
 <img src="Github Banner.gif" width="100%" alt="Alt Text">
