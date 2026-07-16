@@ -29,7 +29,7 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 ## 📂 Featured Projects
 | 🚀 Project | :mag: Objective | :computer: Tech | :bar_chart: Result | Click for more |
 | :--- | :--- | :---: | :---| :---:|
-| Coming Soon | Coming Soon | Coming Soon | Coming Soon| [![Test](folder 16px.png)](https://example.com/...) |
+| Coming Soon | Coming Soon | Coming Soon | Coming Soon| [![Test](folder16px.png)](https://example.com/...) |
 
 ## 📫 Connect with Me
 
