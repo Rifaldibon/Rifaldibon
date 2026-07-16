@@ -1,3 +1,8 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/app/ci.min.css"
+/>
+
 # Hello There!! I'm Rifaldi Adi 👋
 
 <p align="center">
@@ -30,8 +35,8 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 - Data Cleaning with Python
 
 ## 📫 Connect with Me
-- LinkedIn: *(your profile)*
-- Email: *(your email)*
+<i class="ci ci-linkedin-inline ci-2x"></i>
+<i class="ci-whatsapp-inline ci-2x"></i>
 ---
 
 > *"Every dataset tells a story. My job is to find it, understand it, and communicate it clearly."*
