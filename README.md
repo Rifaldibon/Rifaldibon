@@ -1,6 +1,6 @@
 # WELCOME TO MY GITHUB PROFILE 👋
 
-![Github Banner.gif](Github Banner.gif)
+<img src="Github Banner.gif" width="500" alt="Alt Text">
 
 
 ## About Me
