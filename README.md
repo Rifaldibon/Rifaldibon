@@ -1,7 +1,8 @@
 # WELCOME TO MY GITHUB PROFILE 👋
 
-<img src="Github Banner.gif" width="500" alt="Alt Text">
-
+<p align="center">
+<img src="Github Banner.gif" width="100%" alt="Alt Text">
+</p>
 
 ## About Me
 I'm passionate about uncovering patterns hidden within data and turning complex datasets into clear, actionable insights. I enjoy solving real-world business problems through data cleaning, exploratory analysis, visualization, and storytelling.
