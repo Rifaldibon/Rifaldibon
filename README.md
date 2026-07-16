@@ -1,17 +1,29 @@
-## Hi there 👋
+# WELCOME TO MY GITHUB PROFILE 👋
+```python
+class RifaldiAdi:
+    def __init__(self):
+        self.role = "Aspiring Data Analyst"
+        self.location = "Indonesia"
+        self.interests = [
+            "Data Analytics",
+            "Business Intelligence",
+            "Data Visualization",
+            "Problem Solving"
+        ]
+        self.skills = {
+            "Languages": ["Python", "SQL"],
+            "Analytics": ["Excel", "Power BI"],
+            "Libraries": ["Pandas", "NumPy", "Matplotlib"]
+        }
 
-![](https://komarev.com/ghpvc/?username=Rifaldibon)
-<!--
-**Rifaldibon/Rifaldibon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def mission(self):
+        return (
+            "Transform raw data into meaningful insights "
+            "that help people make better decisions."
+        )
 
-Here are some ideas to get you started:
+me = RifaldiAdi()
+print(me.mission())
+```
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
