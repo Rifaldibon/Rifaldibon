@@ -29,14 +29,14 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 - Advanced Tableau
 
 ## 📂 Featured Projects
-- Cyclistic Bike-Share Case Study
-- Customer Segmentation Analysis
-- Sales Performance Dashboard
-- Data Cleaning with Python
+| 🚀 Project | :mag: Objective | :computer: Tech | :bar_chart: Result | Detail |
+| :--- | :--- | :---: | :---| :---:|
+| Coming Soon | Coming Soon | Coming Soon | Coming Soon| Coming Soon |
 
 ## 📫 Connect with Me
 
-<i class="ci ci-linkedin"></i>
+[![linkedin profile](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/rifaldiadi/)
+[![lInstagram profile](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/rifaldibon/)
 
 ---
 
