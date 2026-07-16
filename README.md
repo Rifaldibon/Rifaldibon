@@ -25,13 +25,11 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 - Google Data Analytics Professional Certificate
 - Google Data Analysis with Python Specialization
 - Machine Learning
-- Advanced SQL
-- Advanced Tableau
 
 ## 📂 Featured Projects
 | 🚀 Project | :mag: Objective | :computer: Tech | :bar_chart: Result | Detail |
 | :--- | :--- | :---: | :---| :---:|
-| Coming Soon | Coming Soon | Coming Soon | Coming Soon| Coming Soon |
+| Coming Soon | Coming Soon | Coming Soon | Coming Soon| [![Test](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/documentation-icon.svg)](https://example.com/...) |
 
 ## 📫 Connect with Me
 
