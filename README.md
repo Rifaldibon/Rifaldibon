@@ -38,6 +38,8 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 | IBM Machine Learning Professional Certificate | Coursera | Machine Learning, AI, Regression Analysis, Deep Learning, Generative AI |📌 Planned | — |
 
 📚 [See All My Learning Journey >>> ](https://example.com/...)
+
+
 <br>
 
 ## 📂 Featured Projects
