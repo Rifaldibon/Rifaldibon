@@ -28,12 +28,16 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 
 ## 📚 Currently Learning
 
-| 📚 Course | 🏢 Provider | 📅 Status | 📜 Certificate |
-|:-----------|:------------|:---------:|:--------------:|
-| Google Data Analytics Professional Certificate | Coursera | ✅ Completed | 🔗 [View](https://example.com/...) |
-| Google Data Analysis with Python | Coursera | 🚧 In Progress | — |
-| IBM Machine Learning Professional Certificate | Coursera | 📌 Planned | — |
+| 📚 Course | 🏢 Provider | 💡 Key Skills | 📅 Status | 📜 Certificate |
+|:-----------|:------------|:---------|:---------:|:--------------:|
+| Fundamentals of Structured Query Language (SQL) | Dicoding | Basic SQL, Database, Database Management System (DBMS)  |✅ Completed | 🔗 [View](https://www.dicoding.com/certificates/ERZRED332XYV) |
+| Data Science Fundamentals | Dicoding | Basic Data Science |✅ Completed | 🔗 [View](https://www.dicoding.com/certificates/ERZRED1LNXYV) |
+|Getting Started with Python Programming | Dicoding | Basic Python, OOP, Python Library |✅ Completed | 🔗 [View](https://example.com/...) |
+| Google Data Analytics Professional Certificate | Coursera | Data Analysis Process, Data Storyteliing, Google Spreadsheet, Big Query, Tableau  |✅ Completed | 🔗 [View](https://example.com/...) |
+| Google Data Analysis with Python Specialization | Coursera | Python, Pandas, NumPy, Exploratory Data Analysis, Programming Principles | 🚧 In Progress | — |
+| IBM Machine Learning Professional Certificate | Coursera | Machine Learning, AI, Regression Analysis, Deep Learning, Generative AI |📌 Planned | — |
 
+📚 [See All My Learning Journey >>> ](https://example.com/...)
 <br>
 
 ## 📂 Featured Projects
@@ -42,11 +46,14 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 | :--- | :--- |
 | **📌 Project** | Cyclistic Bike-Share Marketing Analytics |
 | **🎯 Objective** | Analyze historical bike-trip data to identify behavioral differences between annual members and casual riders and provide insights to increase annual memberships. |
-| **🛠️ Technology** | Python, Tableau |
+| **🛠️ Technology** | Python, Jupyter Notebook, Tableau |
 | **📈 Result** | - |
 | **🚧 Status** | In Progress |
 | **📂 Project Detail** | [![Test](folder16px.png)](https://example.com/...) [View Documentation](https://example.com/...) |
 
+[![Test](folder16px.png)](https://example.com/...) [See All Project >>> ](https://example.com/...)
+
+  
 <br>
 
 ## 📫 Connect with Me
