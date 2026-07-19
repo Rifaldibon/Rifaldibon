@@ -51,7 +51,7 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 | **🛠️ Technology** | Python, Jupyter Notebook, Tableau |
 | **📈 Result** | - |
 | **🚧 Status** | In Progress |
-| **📂 Project Detail** | [![Test](folder16px.png)](https://example.com/...) [View Documentation](https://example.com/...) |
+| **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md) [View Documentation]([https://example.com/...](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md)) |
 
 [![Test](folder16px.png)](https://example.com/...) [See All Project >>> ](https://example.com/...)
 
