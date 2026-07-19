@@ -32,8 +32,8 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 |:-----------|:------------|:---------|:---------:|:--------------:|
 | Fundamentals of Structured Query Language (SQL) | Dicoding | Basic SQL, Database, Database Management System (DBMS)  |✅ Completed | 🔗 [View](https://www.dicoding.com/certificates/ERZRED332XYV) |
 | Data Science Fundamentals | Dicoding | Basic Data Science |✅ Completed | 🔗 [View](https://www.dicoding.com/certificates/ERZRED1LNXYV) |
-|Getting Started with Python Programming | Dicoding | Basic Python, OOP, Python Library |✅ Completed | 🔗 [View](https://example.com/...) |
-| Google Data Analytics Professional Certificate | Coursera | Data Analysis Process, Data Storyteliing, Google Spreadsheet, Big Query, Tableau  |✅ Completed | 🔗 [View](https://example.com/...) |
+|Getting Started with Python Programming | Dicoding | Basic Python, OOP, Python Library |✅ Completed | 🔗 [View](https://www.dicoding.com/certificates/07Z63MR0WZQR) |
+| Google Data Analytics Professional Certificate | Coursera | Data Analysis Process, Data Storyteliing, Google Spreadsheet, Big Query, Tableau  |✅ Completed | 🔗 [View](https://coursera.org/share/337c6f6bfc17d7a2d01b6a8aa22c2f8b) |
 | Google Data Analysis with Python Specialization | Coursera | Python, Pandas, NumPy, Exploratory Data Analysis, Programming Principles | 🚧 In Progress | — |
 | IBM Machine Learning Professional Certificate | Coursera | Machine Learning, AI, Regression Analysis, Deep Learning, Generative AI |📌 Planned | — |
 
