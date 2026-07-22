@@ -48,7 +48,7 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 | :--- | :--- |
 | **📌 Project** | Cyclistic Bike-Share Marketing Analytics |
 | **🎯 Objective** | Analyze historical bike-trip data to identify behavioral differences between annual members and casual riders and provide insights to increase annual memberships. |
-| **🛠️ Technology** | Python, Jupyter Notebook, Tableau |
+| **🛠️ Technology** | Python, Jupyter Notebook, Machine Learning, Tableau |
 | **📈 Result** | - |
 | **🚧 Status** | In Progress |
 | **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md) [View Documentation](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md) |
