@@ -11,7 +11,7 @@
 
 ## About Me
 
-A data detective from Indonesia :ID: who follows messy numbers until they reveal a story worth acting on. I build projects with Python, SQL, Spreadsheet, and Tableau while sharpening my analytical skills. Currently, I'm expanding my knowledge by building end-to-end analytics projects that strengthen both my technical skills and business understanding.
+A data detective from Indonesia who follows messy numbers until they reveal a story worth acting on. I build projects with Python, SQL, Spreadsheet, and Tableau while sharpening my analytical skills. Currently, I'm expanding my knowledge by building end-to-end analytics projects that strengthen both my technical skills and business understanding.
 
 <br>
 
