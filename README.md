@@ -35,7 +35,7 @@ A data detective from Indonesia :ID: who follows messy numbers until they reveal
 |Getting Started with Python Programming | Dicoding | Basic Python, OOP, Python Library |✅ Completed | 🔗 [View](https://www.dicoding.com/certificates/07Z63MR0WZQR) |
 | Google Data Analytics Professional Certificate | Coursera | Data Analysis Process, Data Storyteliing, Google Spreadsheet, Big Query, Tableau  |✅ Completed | 🔗 [View](https://coursera.org/share/337c6f6bfc17d7a2d01b6a8aa22c2f8b) |
 | Google Data Analysis with Python Specialization | Coursera | Python, Pandas, NumPy, Exploratory Data Analysis, Programming Principles | 🚧 In Progress | — |
-| IBM Machine Learning Professional Certificate | Coursera | Machine Learning, AI, Regression Analysis, Deep Learning, Generative AI |📌 Planned | — |
+| Google Business Intelligence Professional Certificate | Coursera | Dashboard, Database System, Tableau, ETL, Data Pipeline |📌 Planned | — |
 
 📚 [See All My Learning Journey >>> ](https://example.com/...)
 
