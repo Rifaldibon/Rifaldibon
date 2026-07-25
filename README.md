@@ -50,7 +50,7 @@ A data detective from Indonesia who follows messy numbers until they reveal a st
 | **🎯 Objective** | Analyze historical bike-trip data to identify behavioral differences between annual members and casual riders and provide insights to increase annual memberships. |
 | **🛠️ Technology** | Python, Jupyter Notebook, Machine Learning, Tableau |
 | **📈 Result** | - |
-| **🚧 Status** | In Progress |
+| **🚧 Status** | Finished |
 | **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md) [View Documentation](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md) |
 
 [![Test](folder16px.png)](https://example.com/...) [See All Project >>> ](https://example.com/...)
