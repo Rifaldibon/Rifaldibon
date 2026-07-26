@@ -22,7 +22,7 @@ A data detective from Indonesia who follows messy numbers until they reveal a st
 |Python|VSCode, Jupyter Notebook|Pandas, Numpy |Intermediate |
 |SQL|Google Big Query | - |Intermediate |
 |Spreadsheet|Google Spreadsheet, Microsoft Excel | - |Intermediate |
-|Data Visualization|Tableau | - |Beginner |
+|Data Visualization|Tableau | - |Intermediate |
 |HTML & CSS |VSCode | - |Intermediate |
 <br>
 
@@ -49,10 +49,10 @@ A data detective from Indonesia who follows messy numbers until they reveal a st
 | **📌 Project** | Cyclistic Bike-Share Marketing Analytics |
 | **🎯 Objective** | Analyze historical bike-trip data to identify behavioral differences between annual members and casual riders and provide insights to increase annual memberships. |
 | **🛠️ Technology** | `Python` (`Pandas`, `NumPy`, `Scikit-Learn`), `BallTree ML` (Spatial Imputation), `Tableau`, `Jupyter Notebook` |
-| **📊 Insights** | > **Commuter vs. Leisure:** Members dominate weekdays (Tuesday–Thursday) during peak commuting hours, whereas Casual rides surge by **+75% on weekends**.<br>> **Bike Preference:** Casual riders show a strong preference for **Electric Bikes (72.5%)**.<br>> **Tourist Hotspots:** Primary Casual departure stations center around **Navy Pier** and **DuSable Lake Shore Drive**. |
+| **📊 Insights** | • **Commuter vs. Leisure:** Members dominate weekdays (Tuesday–Thursday) during peak commuting hours, whereas Casual rides surge by **+75% on weekends**.<br>• **Bike Preference:** Casual riders show a strong preference for **Electric Bikes (72.5%)**.<br>• **Tourist Hotspots:** Primary Casual departure stations center around **Navy Pier** and **DuSable Lake Shore Drive**. |
 | **💡 Recommendations** | 1. **Targeted Weekend Ads:** Deploy targeted digital ads in the Navy Pier area specifically from Friday through Sunday during the summer.<br>2. **Weekend/Summer Membership:** Create seasonal membership tiers to appeal to leisure riders.<br>3. **E-Bike Loyalty Perks:** Waive e-bike unlock fees for users who upgrade to an Annual Membership. |
 | **🟢 Status** | Completed |
-| **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README.md) [View Documentation](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md) |
+| **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README.md) [View Documentation](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README.md) |
 
 <!--
 |  |  |
@@ -74,7 +74,7 @@ A data detective from Indonesia who follows messy numbers until they reveal a st
 ## 📫 Connect with Me
 
 [![linkedin profile](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/rifaldiadi/)
-[![lInstagram profile](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/rifaldibon/)
+[![Instagram profile](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/rifaldibon/)
 
 ---
 
