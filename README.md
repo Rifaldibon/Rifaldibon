@@ -44,14 +44,27 @@ A data detective from Indonesia who follows messy numbers until they reveal a st
 
 ## 📂 Featured Projects
 
-| | |
+|  |  |
 | :--- | :--- |
 | **📌 Project** | Cyclistic Bike-Share Marketing Analytics |
 | **🎯 Objective** | Analyze historical bike-trip data to identify behavioral differences between annual members and casual riders and provide insights to increase annual memberships. |
-| **🛠️ Technology** | Python, Jupyter Notebook, Machine Learning, Tableau |
-| **📈 Result** | - |
-| **🚧 Status** | Finished |
-| **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md) [View Documentation](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md) |
+| **🛠️ Technology** | `Python` (`Pandas`, `NumPy`, `Scikit-Learn`), `BallTree ML` (Spatial Imputation), `Tableau`, `Jupyter Notebook` |
+| **📊 Insights** | > **Commuter vs. Leisure:** Members dominate weekdays (Tuesday–Thursday) during peak commuting hours, whereas Casual rides surge by **+75% on weekends**.<br><br>> **Bike Preference:** Casual riders show a strong preference for **Electric Bikes (72.5%)**.<br><br>> **Tourist Hotspots:** Primary Casual departure stations center around **Navy Pier** and **DuSable Lake Shore Drive**. |
+| **💡 Recommendations** | 1. **Targeted Weekend Ads:** Deploy targeted digital ads in the Navy Pier area specifically from Friday through Sunday during the summer.<br><br>2. **Weekend/Summer Membership:** Create seasonal membership tiers to appeal to leisure riders.<br><br>3. **E-Bike Loyalty Perks:** Waive e-bike unlock fees for users who upgrade to an Annual Membership. |
+| **🟢 Status** | Completed |
+| **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README.md) [View Documentation](https://github.com/Rifaldibon/Cyclistic-Bike---Share-Marketing-Analytics/blob/main/README.md) |
+
+<!--
+|  |  |
+| :--- | :--- |
+| **📌 Project** | Incoming |
+| **🎯 Objective** | - |
+| **🛠️ Technology** | - |
+| **📊 Insights** | - |
+| **💡 Recommendations** | - |
+| **🚧 Status** | Incoming |
+| **📂 Project Detail** | [![Test](folder16px.png)](-) [View Documentation](-) |
+-->
 
 [![Test](folder16px.png)](https://example.com/...) [See All Project >>> ](https://example.com/...)
 
