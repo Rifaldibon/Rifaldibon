@@ -1,6 +1,6 @@
 # Hello There!! I'm Rifaldi Adi 👋
 
-Languages: [Indonesia](README-ID.md)
+Languages Option: [Indonesia](README-ID.md)
 
 <p align="center">
 <img src="Github Banner.gif" width="100%" alt="Alt Text">
