@@ -78,4 +78,4 @@ A data detective from Indonesia who follows messy numbers until they reveal a st
 
 ---
 
-> *"Every dataset tells a story. My job is to find it, understand it, and communicate it clearly." *
+> *"Every dataset tells a story. My job is to find it, understand it, and communicate it clearly."*
