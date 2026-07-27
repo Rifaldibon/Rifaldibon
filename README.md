@@ -1,9 +1,6 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/app/ci.min.css"
-/>
-
 # Hello There!! I'm Rifaldi Adi 👋
+
+Languages: [Indonesia](README-ID.md)
 
 <p align="center">
 <img src="Github Banner.gif" width="100%" alt="Alt Text">
