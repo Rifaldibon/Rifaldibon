@@ -41,6 +41,7 @@ A data detective from Indonesia who follows messy numbers until they reveal a st
 
 ## 📂 Featured Projects
 
+### 1. Cyclistic Bike-Share Marketing Analytics
 |  |  |
 | :--- | :--- |
 | **📌 Project** | Cyclistic Bike-Share Marketing Analytics |
@@ -49,19 +50,19 @@ A data detective from Indonesia who follows messy numbers until they reveal a st
 | **📊 Insights** | • **Commuter vs. Leisure:** Members dominate weekdays (Tuesday–Thursday) during peak commuting hours, whereas Casual rides surge by **+75% on weekends**.<br>• **Bike Preference:** Casual riders show a strong preference for **Electric Bikes (72.5%)**.<br>• **Tourist Hotspots:** Primary Casual departure stations center around **Navy Pier** and **DuSable Lake Shore Drive**. |
 | **💡 Recommendations** | 1. **Targeted Weekend Ads:** Deploy targeted digital ads in the Navy Pier area specifically from Friday through Sunday during the summer.<br>2. **Weekend/Summer Membership:** Create seasonal membership tiers to appeal to leisure riders.<br>3. **E-Bike Loyalty Perks:** Waive e-bike unlock fees for users who upgrade to an Annual Membership. |
 | **🟢 Status** | Completed |
-| **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README.md) [View Documentation](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README.md) |
+| **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/tree/main) [View Documentation](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/tree/main) |
 
-<!--
+### 2. E-Commerce Customer Lifecycle & RFM Churn Analytics
 |  |  |
 | :--- | :--- |
-| **📌 Project** | Incoming |
-| **🎯 Objective** | - |
-| **🛠️ Technology** | - |
+| **📌 Project** | E-Commerce Customer Lifecycle & RFM Churn Analytics |
+| **🎯 Objective** | Analyze customer retention patterns and perform RFM segmentation on the Olist e-commerce dataset using Google BigQuery to formulate targeted CRM strategies that mitigate churn and maximize Customer Lifetime Value (CLV). |
+| **🛠️ Technology** | `Google BigQuery` (`Standard SQL`, `CTEs`, `Window Functions`), `Cohort Retention`, `RFM Analytics`, `Tableau` |
 | **📊 Insights** | - |
 | **💡 Recommendations** | - |
-| **🚧 Status** | Incoming |
-| **📂 Project Detail** | [![Test](folder16px.png)](-) [View Documentation](-) |
--->
+| **🚧 Status** | On Progress... |
+| **📂 Project Detail** | [![Test](folder16px.png)](https://github.com/Rifaldibon/olist-customer-retention-rfm-analytics/tree/main) [View Documentation](https://github.com/Rifaldibon/olist-customer-retention-rfm-analytics/tree/main) |
+
 
 [![Test](folder16px.png)](https://example.com/...) [See All Project >>> ](https://example.com/...)
 
