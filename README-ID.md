@@ -45,6 +45,7 @@ menambah skill dan tools yang bisa gunakan dalam proses analisis.
 
 ## 📂 Featured Projects
 
+### 1. Marketing Analytics: Cyclistic Bike-Share
 |  |  |
 | :--- | :--- |
 | **📌 Proyek** | Marketing Analytics: Cyclistic Bike-Share |
@@ -53,7 +54,18 @@ menambah skill dan tools yang bisa gunakan dalam proses analisis.
 | **📊 Insights** | • **Komuter vs. Rekreasi:** Pengguna member mendominasi pada hari kerja (Selasa–Kamis) tepatnya di jam sibuk, sedangkan penggunaan sepeda oleh Pengguna Kasual melonjak hingga **+75% di akhir pekan**.<br>• **Preferensi Jenis Sepeda:** Pengguna kasual menunjukkan preferensi kuat terhadap **Sepeda Listrik (72.5%)**.<br>• **Area Wisata Utama:** Lokasi stasiun sewa sepeda paling ramai untuk Pengguna Kasual terpusat di sekitar area **Navy Pier** dan **DuSable Lake Shore Drive**. |
 | **💡 Rekomendasi** | 1. **Iklan Digital Terintegrasi di Akhir Pekan:** Menjalankan iklan digital di area Navy Pier khusus pada hari Jumat hingga Minggu selama musim panas.<br>2. **Membership Khusus *Weekend*/Musim Panas:** Membuat jenis membership khusus musim panas atau *weekend* untuk menarik minat pengguna sepeda casual.<br>3. **Benefit Penggunaan Sepeda Listrik:** Menghapus biaya buka kunci (*unlock fee*) sepeda listrik bagi pengguna yang memiliki membership. |
 | **🟢 Status** | Selesai |
-| **📂 Detail Proyek** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README.md) [Lihat Dokumentasi](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README.md) |
+| **📂 Detail Proyek** | [![Test](folder16px.png)](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README-ID.md) [Lihat Dokumentasi](https://github.com/Rifaldibon/Cyclistic-Bike-Share-Marketing-Analytics/blob/main/README-ID.md) |
+
+### 2. Analisis Siklus Hidup Pelanggan E-Commerce & Churn RFM
+|  |  |
+| :--- | :--- |
+| **📌 Proyek** | Analisis Siklus Hidup Pelanggan E-Commerce & Churn RFM |
+| **🎯 Tujuan** | Menganalisis pola retensi dan mengelompokkan pelanggan e-commerce Olist menggunakan Cohort Analysis dan RFM Segmentation di BigQuery guna merumuskan strategi CRM yang tepat untuk menekan angka churn serta meningkatkan Customer Lifetime Value (CLV). |
+| **🛠️ Teknologi** | `Google BigQuery` (`Standard SQL`, `CTEs`, `Window Functions`), `Cohort Retention`, `RFM Analytics`, `Tableau` |
+| **📊 Insights** | - |
+| **💡 Rekomendasi** | - |
+| **🚧 Status** | Sedang dikerjakan... |
+| **📂 Detail Proyek** | [![Test](folder16px.png)](https://github.com/Rifaldibon/olist-customer-retention-rfm-analytics/blob/main/README-ID.md) [View Documentation](https://github.com/Rifaldibon/olist-customer-retention-rfm-analytics/blob/main/README-ID.md) |
 
 [![Test](folder16px.png)](https://example.com/...) [Lihat Project Lainnya >>> ](https://example.com/...)
 
